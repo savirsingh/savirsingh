@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created Feedite - the random photo/video app. Check it out at https://feedite.pythonanywhere.com.
 
-# I mainly create Python web applications using Flask (Netflix was created using Python Flask). I am experienced in Python, JavaScript, HTML/CSS, and C.
+### I mainly create Python web applications using Flask (Netflix was created using Python Flask). I am experienced in Python, JavaScript, HTML/CSS, and C.
