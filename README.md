@@ -9,4 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created Feedite - the random photo/video app. Check it out at https://feedite.pythonanywhere.com.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savirsingh)](https://github.com/anuraghazra/github-readme-stats)
+
 ### I am experienced in Python, Java, JavaScript, HTML/CSS, and C.
