@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I created Feedite - the random photo/video app. Check it out at https://feedite.pythonanywhere.com.
 
 
-### I am experienced in Python, Java, JavaScript, HTML/CSS, and C.
+### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
