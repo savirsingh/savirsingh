@@ -1,4 +1,5 @@
 ### Hi/Namaste/Bonjour
+![ezgif-2-5a3984b7d0](https://user-images.githubusercontent.com/84334654/181835988-18dc3331-2e92-4af2-85f6-be1bceea7780.gif)
 
 - 🔭 I’m currently working on more web stuff.
 - 🌱 I’m currently learning how to make mobile apps.
@@ -8,8 +9,6 @@
 - 📫 How to reach me: Email - kopichiki@gmail.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created Feedite - the random photo/video app. Check it out at https://feedite.pythonanywhere.com.
-
-![giphy](https://user-images.githubusercontent.com/84334654/181661165-f60c914f-b16d-48b3-94af-1b1ec470eebd.gif)
 
 
 ### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
