@@ -10,5 +10,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created Feedite - the random photo/video app. Check it out at https://feedite.pythonanywhere.com.
 
+#### I made that super cool GIF on my profile using https://savirsingh.github.io/ProfilePop/
 
 ### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
