@@ -12,4 +12,4 @@
 
 ### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
 
-![image](https://user-images.githubusercontent.com/84334654/181661028-22d4f815-b794-4685-a497-a83c5822c362.png)
+![giphy](https://user-images.githubusercontent.com/84334654/181661165-f60c914f-b16d-48b3-94af-1b1ec470eebd.gif)
