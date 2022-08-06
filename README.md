@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on more web stuff.
 - 🌱 I’m currently learning how to make mobile apps.
 - 👯 I’m looking to collaborate on creating an online 3D world. I believe Web 2.0 still has potential to advance further.
-- 🤔 I’m looking for help with CCC problems.
+- 🤔 I’m looking for help with competitive programming.
 - 💬 Ask me about Python web and application development.
 - 📫 How to reach me: Email - kopichiki@gmail.com.
 - 😄 Pronouns: he/him
