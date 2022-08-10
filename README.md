@@ -1,7 +1,7 @@
 ### Hi/Namaste/Bonjour
 ![ezgif-2-5a3984b7d0](https://user-images.githubusercontent.com/84334654/181835988-18dc3331-2e92-4af2-85f6-be1bceea7780.gif)
 
-- 🔭 I’m currently working on more web stuff.
+- 🔭 I’m currently working on more useless stuff.
 - 🌱 I’m currently learning how to make mobile apps.
 - 👯 I’m looking to collaborate on creating an online 3D world. I believe Web 2.0 still has potential to advance further.
 - 🤔 I’m looking for help with competitive programming.
