@@ -12,7 +12,7 @@
 
 #### I made that super cool badge on my profile using https://savirsingh.github.io/ProfilePop/
 
-I've been programming computers since I was 9 years old.
+#### I've been programming computers since I was 9 years old.
 
 ### I am certified in Python Applications, Machine Learning & Data Science from My Code Club (MCC).
 
