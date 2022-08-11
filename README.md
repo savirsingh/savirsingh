@@ -19,3 +19,10 @@
 ### I won the MCC Code-A-Thon (Python) & PEO-MC's High School Coding Contest (C Language).
 
 ### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
+
+#### Major Events:
+- 1st Place in PEO-MC's Mathletics Challenge 2020
+- 1st Place in MCC Code-A-Thon
+- 1st Place in PEO-MC's High School Coding Contest
+- 30/75 in Canadian Computing Competition 2022 (Junior, Grade 9)
+- 25/40 in Fryer Mathematics Contest 2022 (Grade 9)
