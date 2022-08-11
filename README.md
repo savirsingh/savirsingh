@@ -14,6 +14,6 @@
 
 ### I am certified in Python Applications, Machine Learning & Data Science from My Code Club (MCC).
 
-### I won the MCC Code-A-Thon & PEO-MC's High School Coding Contest (C Language).
+### I won the MCC Code-A-Thon (Python) & PEO-MC's High School Coding Contest (C Language).
 
 ### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
