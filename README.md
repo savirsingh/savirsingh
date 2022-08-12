@@ -28,3 +28,4 @@
 - 25/40 in Fryer Mathematics Contest 2022 (Grade 9)
 
 ![Savir's GitHub stats](https://github-readme-stats.vercel.app/api?username=savirsingh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savirsingh&layout=compact)
