@@ -12,7 +12,9 @@
 
 #### I made that super cool badge on my profile using https://savirsingh.github.io/ProfilePop/
 
-#### I've been programming computers since I was 9 years old.
+#### I learned computer programming in 2016 - when I was 9.
+
+#### I joined GitHub on May 19, 2021 - when I was 14.
 
 ### I am certified in Python Applications, Machine Learning & Data Science from My Code Club (MCC).
 
