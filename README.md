@@ -20,7 +20,10 @@
 
 ### I won the MCC Code-A-Thon (Python) & PEO-MC's High School Coding Contest (C Language).
 
-### I am experienced in Python, C++, Java, JavaScript, HTML/CSS, and C.
+### I am experienced in:
+![python_resized](https://user-images.githubusercontent.com/84334654/186487739-c12c8c63-6877-46f2-83a4-f37aacf5466f.gif)
+![cplusplus_resized](https://user-images.githubusercontent.com/84334654/186487758-b344bff7-92f9-4f0f-99aa-67dab80ed664.gif)
+![java_resized](https://user-images.githubusercontent.com/84334654/186487786-34c71f4a-1be7-4335-b51c-6021a03fb308.gif)
 
 #### Major Events:
 - 1st Place in PEO-MC's Mathletics Challenge 2020
