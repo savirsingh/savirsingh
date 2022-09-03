@@ -31,3 +31,5 @@
 - 1st Place in PEO-MC's High School Coding Contest 2021
 - 30/75 in Canadian Computing Competition 2022 (Junior, Grade 9)
 - 25/40 in Fryer Mathematics Contest 2022 (Grade 9)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savirsingh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
