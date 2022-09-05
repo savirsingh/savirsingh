@@ -14,7 +14,7 @@
 
 #### I learned computer programming in 2016 - when I was 9.
 
-#### I joined GitHub on May 19, 2021 - when I was 14.
+#### I joined GitHub on May 17, 2021 - when I was 14.
 
 ### I am certified in Python Applications, Machine Learning & Data Science from My Code Club (MCC).
 
