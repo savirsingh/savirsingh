@@ -21,7 +21,7 @@
 #### Major Events:
 - 1st Place in PEO-MC's Mathletics Challenge 2020
 - 1st Place in MCC Code-A-Thon 2021
-- 1st Place in PEO-MC's High School Coding Contest 2021
+- 1st Place in PEO-MC's High School Coding Contest 2021 & 2022
 - 30/75 in Canadian Computing Competition 2022 (Junior, Grade 9)
 - 25/40 in Fryer Mathematics Contest 2022 (Grade 9)
 
