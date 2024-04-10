@@ -1,6 +1,5 @@
-### Hi/Namaste/Bonjour/Konnichiwa
-![ezgif-2-5a3984b7d0](https://user-images.githubusercontent.com/84334654/181835988-18dc3331-2e92-4af2-85f6-be1bceea7780.gif)
+Programming enthusiast, particularly algorithms & data structures.
 
-#### I made that super cool badge on my profile using https://savirsingh.github.io/ProfilePop/
+Learn more: https://www.savirsingh.com
 
-I'm a competitive programmer and software developer.
+Contact: savirsinghwork@gmail.com
