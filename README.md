@@ -6,7 +6,7 @@ Some cool closed-source projects I built include:
 - [The Math Contest Repository](https://mathcontestrepository.pythonanywhere.com), a contest-hosting platform with 1400+ problems (primarily from AMC/AIME and CEMC contests) and 300+ registered users. I've successfully hosted 9 math contests and authored 100+ original problems as of September 2024.
 - [Clonio AI](https://clonioai.guessoword.com), an iOS app that can transform people into AI chatbots based on DM/text conversation history. At its peak, this application ranked 64th on the US App Store for paid apps under the "Productivity" section. It attracted 200+ downloads in the first week alone.
 
-Some fun open-source projects I build include:
+Some fun open-source projects I built include:
 - [Volcano Judge](https://github.com/savirsingh/volcano-judge): A competitive programming online judge/grader based on LeetCode and Codeforces. Supports Python 3 (with sandboxing) and C++.
 - [CCC Solutions](https://github.com/savirsingh/ccc-solutions): I thoroughly enjoy competitive programming and solved 470+ problems during my sport programming journey. Most solutions are available in my repository.
 
