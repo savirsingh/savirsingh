@@ -8,7 +8,7 @@ Some cool closed-source projects I built include:
 
 Some fun open-source projects I built include:
 - [Volcano Judge](https://github.com/savirsingh/volcano-judge): A competitive programming online judge/grader based on LeetCode and Codeforces. Supports Python 3 (with sandboxing) and C++.
-- [CCC Solutions](https://github.com/savirsingh/ccc-solutions): I thoroughly enjoy competitive programming and solved 470+ problems during my sport programming journey. Most solutions are available in my repository.
+- [CCC Solutions](https://github.com/savirsingh/ccc-solutions): I thoroughly enjoy competitive programming and solved 500+ problems during my sport programming journey. Most solutions are available in my repository.
 
 You can find dozens of other projects, including hackathon submissions, on [my website](https://savirsingh.com/projects) or on my GitHub profile :)
 
