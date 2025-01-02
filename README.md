@@ -3,7 +3,7 @@ I'm in grade 12 and plan to pursue computer science or a related field in univer
 
 ## Projects
 Some cool closed-source projects I built include:
-- [The Math Contest Repository](https://mathcontestrepository.pythonanywhere.com), a contest-hosting platform with 1400+ problems (primarily from AMC/AIME and CEMC contests) and 340+ registered users. I've successfully hosted 10 math contests and authored 100+ original problems as of December 2024.
+- [The Math Contest Repository](https://mathcontestrepository.pythonanywhere.com), a contest-hosting platform with 1400+ problems (primarily from AMC/AIME and CEMC contests) and 350+ registered students. I've successfully hosted 10 math contests and authored 100+ original problems as of January 2025.
 - [Clonio AI](https://clonioai.guessoword.com), an iOS app that can transform people into AI chatbots based on DM/text conversation history. At its peak, this application ranked among the top 30 apps on the US App Store for paid apps under the "Productivity" section. It attracted 200+ downloads in the first week alone.
 
 Some fun open-source projects I built include:
