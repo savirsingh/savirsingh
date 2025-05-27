@@ -1,5 +1,5 @@
 Programming enthusiast, particularly algorithms & data structures.
-I'm in grade 12 and plan to pursue computer science or a related field in university.
+I'm a student at the University of Toronto currently enrolled in the Physical & Mathematical Sciences category and plan to pursue a double major in computer science and applied math.
 
 ## Projects
 Some cool closed-source projects I built include:
