@@ -1,5 +1,5 @@
 Programming enthusiast, particularly algorithms & data structures.
-I'm a student at the University of Toronto currently enrolled in the Physical & Mathematical Sciences category and plan to pursue a double major in computer science and applied mathematics.
+I'm a student at the University of Toronto currently enrolled in the Physical & Mathematical Sciences category and plan to pursue a double major in computer science and mathematics, with a statistics minor.
 
 ## Projects
 Some cool closed-source projects I built include:
