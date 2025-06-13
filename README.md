@@ -14,7 +14,7 @@ You can find dozens of other projects, including hackathon submissions, on [my w
 
 ## Experience
 I've worked in three software engineering internships during high school, listed below in reverse chronological order:
-- Software Engineer Intern, Scaled Foundations
+- Software Engineer Intern, General Robotics
 - Student Researcher & Software Engineer Intern, University of Waterloo
 - Backend Engineer Intern, American Inn Ozark
 
