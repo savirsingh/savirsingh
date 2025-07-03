@@ -1,4 +1,4 @@
-## hey
+## hi there, i'm savir
 i'm a student at the university of toronto (st. george campus), planning to double major in computer science and math, with a stats minor.
 
 my main interest is using math, algorithms, data analysis, and programming to understand financial markets, predict risk, and figure out where to invest. not super into building apps/websites anymore. i care more about modelling and optimization.
