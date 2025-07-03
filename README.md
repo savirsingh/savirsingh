@@ -1,23 +1,23 @@
-Programming enthusiast, particularly algorithms & data structures.
-I'm a student at the University of Toronto currently enrolled in the Physical & Mathematical Sciences category and plan to pursue a double major in computer science and mathematics, with a statistics minor.
+## hey
+i'm a student at the university of toronto (st. george campus), planning to double major in computer science and math, with a stats minor.
 
-## Projects
-Some cool closed-source projects I built include:
-- [The Math Contest Repository](https://mathcontestrepository.pythonanywhere.com), a contest-hosting platform with 1,400+ problems (primarily from AMC/AIME and CEMC contests) and 450+ registered students. I've successfully hosted over 15 math contests and authored 100+ original problems as of May 2025.
-- [Clonio AI](https://clonioai.guessoword.com), an iOS app that can transform people into AI chatbots based on DM/text conversation history. At its peak, this application ranked among the top 25 apps on the US App Store for paid apps under the "Productivity" section. It attracted 200+ downloads in the first week alone.
+my main interest is using math, algorithms, data analysis, and programming to understand financial markets, predict risk, and figure out where to invest. not super into building apps/websites anymore. i care more about modelling and optimization.
 
-Some fun open-source projects I built include:
-- [Volcano Judge](https://github.com/savirsingh/volcano-judge): A competitive programming online judge/grader based on LeetCode and Codeforces. Supports Python 3 (with sandboxing) and C++.
-- [CCC Solutions](https://github.com/savirsingh/ccc-solutions): I thoroughly enjoy competitive programming and solved 600+ problems during my sport programming journey. Most solutions are available in my repository.
+##stuff i've made
+- [math contest repository]((https://mathcontestrepository.pythonanywhere.com)): a platform with 1,400+ problems (mostly amc/aime/cemc), 460+ registered users, 15+ hosted contests, and 100+ original problems written by me
+- [clonio ai](https://clonioai.guessoword.com): ios app that turns people into ai chatbots from dms/texts. made it for fun, hit top 25 in us/canada/swiss app stores (productivity, paid) with 200+ downloads in week 1
+- [volcano judge](https://volcanojudge.pythonanywhere.com): online judge for competitive programming. supports python 3 and c++, basic sandboxing
+- [ccc solutions](https://github.com/savirsingh/ccc-solutions): repo of 600+ problems i solved in competitive programming
 
-You can find dozens of other projects, including hackathon submissions, on [my website](https://savirsingh.com/projects) or on my GitHub profile :)
+more stuff on my [website](https://savirsingh.com) or [github](https://github.com/savirsingh)
 
-## Experience
-I've worked in three software engineering internships during high school, listed below in reverse chronological order:
-- Software Engineer Intern, General Robotics
-- Student Researcher & Software Engineer Intern, University of Waterloo
-- Backend Engineer Intern, American Inn Ozark
+##experience
+had 4 internships during high school:
+- theoretical cs research @ carnegie mellon university
+- software intern @ general robotics (autonomous drones)
+- researched software security @ university of waterloo
+- backend intern @ american inn ozark
 
-Learn more: https://www.savirsingh.com
-
-Contact: savir.singh@mail.utoronto.ca
+##contact
+email: savir.singh@mail.utoronto.ca
+site: savirsingh.com
