@@ -15,9 +15,10 @@ more stuff on my [website](https://savirsingh.com) or [github](https://github.co
 had 4 internships during high school:
 - theoretical cs research @ carnegie mellon university
 - software intern @ general robotics (autonomous drones)
-- researched software security @ university of waterloo
+- software security research @ university of waterloo
 - backend intern @ american inn ozark
 
 ## contact
 email: savir.singh@mail.utoronto.ca
-site: savirsingh.com
+
+site: [savirsingh.com](https://savirsingh.com)
