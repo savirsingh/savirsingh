@@ -12,7 +12,7 @@ my main interest is using math, algorithms, data analysis, and programming to un
 more stuff on my [website](https://savirsingh.com) or [github](https://github.com/savirsingh)
 
 ## experience
-had 4 internships during high school:
+did 4 internships during high school:
 - theoretical cs research @ carnegie mellon university
 - software intern @ general robotics (autonomous drones)
 - software security research @ university of waterloo
