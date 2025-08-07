@@ -19,6 +19,6 @@ did 4 internships during high school:
 - backend intern @ american inn ozark
 
 ## contact
-email: savir.singh@mail.utoronto.ca
+email: me@savirsingh.com
 
 site: [savirsingh.com](https://savirsingh.com)
