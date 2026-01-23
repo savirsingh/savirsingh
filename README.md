@@ -1,8 +1,6 @@
 ## hi there, i'm savir
 i'm a student at the university of toronto (st. george campus), planning to double major in computer science and math.
 
-my main interest is using math, algorithms, data analysis, and programming to understand financial markets, predict risk, and figure out where to invest. not super into building apps/websites in my free time anymore, though i have experience with it and am open to any work involving it! i care more about modelling and optimization.
-
 ## stuff i've made
 - [math contest repository](https://mathcontestrepository.pythonanywhere.com): a platform with 1,400+ problems (mostly amc/aime/cemc), 460+ registered users, 15+ hosted contests, and 100+ original problems written by me
 - [clonio ai](https://clonioai.guessoword.com): ios app that turns people into ai chatbots from dms/texts. made it for fun, hit top 25 in us/canada/swiss app stores (productivity, paid) with 200+ downloads in week 1
