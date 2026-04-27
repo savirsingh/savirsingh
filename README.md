@@ -10,6 +10,7 @@ i'm a student at the university of toronto (st. george campus), planning to doub
 more stuff on my [website](https://savirsingh.com) or [github](https://github.com/savirsingh)
 
 ## experience
+- security + compliance @ kpmg (incl. development of AI security bot)
 - theoretical cs research @ carnegie mellon university
 - software intern @ general robotics (autonomous drones)
 - software security research @ university of waterloo
