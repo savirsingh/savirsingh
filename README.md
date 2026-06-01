@@ -1,5 +1,5 @@
 ## hi there, i'm savir
-i'm a student at the university of toronto (st. george campus), planning to double major in computer science and math.
+i'm a computer science + mathematics student at the university of toronto (st. george campus).
 
 ## stuff i've made
 - [math contest repository](https://mathcontestrepository.pythonanywhere.com): a platform with 1,400+ problems (mostly amc/aime/cemc), 500+ registered users, 15+ hosted contests, and 100+ original problems written by me
